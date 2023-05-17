@@ -1,0 +1,46 @@
+.delete-btn {
+   background: white;
+   border: none;
+   padding-top: 30px;
+}
+.todo-all{
+   display: flex;
+   justify-content: center;
+   max-width: 600px;
+   margin: 0 auto;
+   align-items: center;
+}
+.correct-btn{
+   background: white;
+   border: none;
+}
+.todo-list-main {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  min-width: 300px;
+  margin-top: 10px;
+}
+.todo-list{
+   text-align: left;
+}
+.todo-list.done {
+   text-decoration: line-through;
+}
+.btn{
+   display: flex;
+   gap: 20px;
+}
+.deleteall-btn{
+   text-align: right;
+   max-width: 500px;
+   margin: 0 auto;
+}
+.deleteall-btn button{
+   background-color:red;
+   padding: 12px;
+   font-size: 14px;
+   border-radius: 5px;
+   color: white;
+   margin-top: 15px;
+}

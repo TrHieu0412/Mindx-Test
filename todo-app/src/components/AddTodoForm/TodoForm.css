@@ -1,0 +1,19 @@
+.todo-form input{
+  height: 40px;
+
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 20px;
+  min-width: 300px;
+  margin-right: 10px ;
+}
+.add-btn {
+    background: rgb(6, 6, 240);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 13px;
+}
